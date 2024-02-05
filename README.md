@@ -1,4 +1,4 @@
-# My Las Vegas Adventure - Travelogue
+# MMDA222 - Travelogue Assignment
 
 In this repository, you'll find the code for my travelogue assignment documenting a trip to Las Vegas in 2023. I've covered various aspects of my experience, including dining, drinks, a visit to a shooting range, and casino gaming. Let me give you a brief overview of each section:
 
@@ -21,3 +21,5 @@ Step into the world of gambling in Las Vegas with me, emphasizing responsible ga
 
 ## Grade Achieved
 - A+ (60/60)
+
+2023 - Hendrich Buhrer
