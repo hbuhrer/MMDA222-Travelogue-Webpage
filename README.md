@@ -19,5 +19,5 @@ Step into the world of gambling in Las Vegas with me, emphasizing responsible ga
 - Immerse yourself in the Las Vegas adventure through images capturing the essence of my experience.
 - Copyright information: 2023 Copyright &copy; Hendrich Buhrer.
 
-## Grade Acheived
+## Grade Achieved
 - A+ (60/60)
